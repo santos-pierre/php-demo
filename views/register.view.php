@@ -10,9 +10,9 @@
 		<div class="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
 			<form class="space-y-6" action="#" method="POST">
 				<div>
-					<label for="name" class="block text-sm font-medium text-gray-700">Name</label>
+					<label for="username" class="block text-sm font-medium text-gray-700">Username</label>
 					<div class="mt-1">
-						<input id="name" name="name" type="text" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
+						<input id="username" name="username" type="text" required class="block w-full appearance-none rounded-md border border-gray-300 px-3 py-2 placeholder-gray-400 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
 					</div>
 				</div>
 				<div>
