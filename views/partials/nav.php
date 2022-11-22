@@ -14,9 +14,12 @@
                     </div>
                 </div>
             </div>
-						<div>
+						<div class="flex">
 							<div class="py-6">
-                <a href="/login" class="-mx-3 block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-gray-200 hover:bg-gray-400/10">Log in</a>
+                <a href="/login" class="block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-gray-200 hover:bg-gray-400/10">Log in</a>
+              </div>
+							<div class="py-6">
+                <a href="/register" class="block rounded-lg py-2.5 px-3 text-base font-semibold leading-6 text-gray-200 hover:bg-gray-400/10">Register</a>
               </div>
 						</div>
         </div>

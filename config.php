@@ -2,8 +2,8 @@
 
 return [
     'database' => [
-        'host' => 'localhost',
-        'port' => 8082,
+        'host' => 'demo-php_mysql_1',
+        'port' => 3306,
         'dbname' => 'demoPHP',
         'charset' => 'utf8mb4'
     ],

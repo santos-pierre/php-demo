@@ -1,5 +1,7 @@
 <?php
 
+$myhero = "IRON MAN";
+
 function dd($value) {
 	echo "<pre>";
 	var_dump($value);
