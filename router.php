@@ -7,7 +7,8 @@ $routes = [
     '/books' => 'controllers/books.php',
     '/login' => 'controllers/login.php',
     '/register' => 'controllers/register.php',
-		'/auth/login' => 'controllers/auth/login.php'
+		'/auth/login' => 'controllers/auth/login.php',
+		'/books/create' => 'controllers/create-book.php',
 ];
 
 function routeToController($uri, $routes) {
