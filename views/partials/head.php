@@ -1,17 +1,13 @@
-<!doctype html>
-<html lang="en" class="h-full bg-gray-100">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Demo</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-		<link rel="preconnect" href="https://rsms.me/">
-		<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-		<style>
-			:root { font-family: 'Inter', sans-serif; }
-			@supports (font-variation-settings: normal) {
-				:root { font-family: 'Inter var', sans-serif; }
-			}
-		</style>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<!-- CSS only -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 </head>
-<body class="h-full">
-    <div class="min-h-full">
+<body>
+	<?php require('nav.php') ?>
+	<main class="container mt-5">
